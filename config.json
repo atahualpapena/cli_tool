@@ -1,0 +1,6 @@
+{
+    "bucket_name": "sql-script-poc",
+    "file_name": "package.json",
+    "cron": "cron(0/1 * * * ? *)",
+    "aws_profile": "[default]"
+}
